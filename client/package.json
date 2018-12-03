@@ -7,7 +7,7 @@
   "dependencies": {
     "arrive": "^2.4.1",
     "bootbox": "^4.4.0",
-    "bootstrap-material-design": "^0.5.10",
+    "bootstrap-material-design": "^4.1.1",
     "bootstrap-sass": "^3.3.7",
     "highlight.js": "^9.13.1",
     "human-date": "^1.4.0",
